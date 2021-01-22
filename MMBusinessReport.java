@@ -23,11 +23,7 @@ public class MMBusinessReport {
       System.out.println(monthlysales + " Sold ");
       double averagesales = monthlysales / 4.0;//Casting averagesales into a double to get accurate average
       System.out.printf("Your average weekly sales of WidgetX were: \n%.2f \n\n", averagesales);//%.2f to print only to two decimal places
-      }
+      }//This ends the main method
     
-}
-/*I was having some syntax issues and called a friend.  I was able to get this working and if someone wanted to use this
-at the end of every month you would just add a new line of code in the main method.  I was confused on methods for a bit and 
-found the video I sourced in the comments earlier.  */
-
-//I am not sure if I did anything for extra credit, I am not sure if my code is elegant, but I think I did ok? Ps. Im scared of for and while loops.  
+}//This ends the program
+ 
